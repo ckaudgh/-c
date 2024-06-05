@@ -7,8 +7,8 @@
 
 void main() 
 {
-	int num1[4][5];
-	int num2[5];
+	int num1[5][6];
+	int num2[6];
 	int i, j, k, a=0, b=0, c=0;
 	int cnt = 0;
 	int sn1 = 0;
